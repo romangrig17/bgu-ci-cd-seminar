@@ -1,4 +1,4 @@
-# CI/CD Workshop - Pokedex
+# CI/CD Workshop - Pokedex2
 
 [![Build Status](https://travis-ci.com/ofirattia/pokedex.svg?branch=master)](https://travis-ci.com/ofirattia/pokedex)
 
